@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Je suis étudiante en BUT Informatique à l'IUT Robert Schuman de l'Université de Strasbourg.
+
+## Formation
+
+- BUT Informatique (2025 - présent)
+
+## Compétences en cours d'apprentissage
+
+- Java
+- SQL
+- UML
+- Git / GitHub
+- HTML / CSS
