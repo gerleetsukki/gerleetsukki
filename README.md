@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Khosgerel 👋
 
 <!--
 **gerleetsukki/gerleetsukki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science student at the University of Strasbourg, currently enrolled in the BUT Informatique program at IUT Robert Schuman in Illkirch-Graffenstaden.
