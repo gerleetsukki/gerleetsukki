@@ -27,3 +27,10 @@ Je suis étudiante en BUT Informatique à l'IUT Robert Schuman de l'Université 
 - UML
 - Git / GitHub
 - HTML / CSS
+
+# Centres d'intérêt 
+- Programmation
+- Bases de données
+- Développement informatique
+- Nouvelles technologies
+- Cinéma
