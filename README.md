@@ -20,7 +20,7 @@ Je suis étudiante en BUT Informatique à l'IUT Robert Schuman de l'Université 
 
 - BUT Informatique (2025 - présent)
 
-## Compétences en cours d'apprentissage
+## 💻Compétences en cours d'apprentissage
 
 - Java
 - SQL
